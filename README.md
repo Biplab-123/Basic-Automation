@@ -1,2 +1,2 @@
 # Basic-Automation
-Automate the google Login and Amazon search
+Automate the Amazon search
